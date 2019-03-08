@@ -9,3 +9,5 @@ This will list ways to create and manage branches.
 
 'git checkout BRANCH_NAME' - switches to that branch
 
+Be careful of master getting ahead of your branch.
+
