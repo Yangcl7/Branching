@@ -1,5 +1,6 @@
 ## Branching Notes
 
+
 This will list ways to create and manage branches.
 
 'git branch' - list branches you have locally, and highlight the one you're using.
@@ -13,3 +14,4 @@ This will list ways to create and manage branches.
 
 Be careful of master getting ahead of your branch.
 
+'git branch -d BRANCH_NAME' - delete a branch locally
